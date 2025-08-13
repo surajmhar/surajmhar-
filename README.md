@@ -26,7 +26,6 @@
 ## 💻 Projects & Work
 
 - **Byteify Projects** – Educational & marketing videos  
-- **Honey & Bee Keeping Promo** – Informative video ads  
 - **111 Days of Learning For Change** – Daily learning documentation  
 - **Online Shop Pvt. Ltd.** – Video ads, creative content  
 
