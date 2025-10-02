@@ -40,7 +40,7 @@
 
 ## 📫 Contact Me
 
-- **Email:** your-email@example.com  
+- **Email:** surajmahar122@gmail.com  
 - **LinkedIn:** [linkedin.com/in/surajmahar](https://linkedin.com/in/surajmahar)  
 - **Twitter:** [twitter.com/surajmahar](https://twitter.com/surajmahar)  
 - **Portfolio / Website:** [byteify.com](https://byteify.com) *(if available)*
