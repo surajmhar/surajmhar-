@@ -55,4 +55,4 @@
 ---
 
 ## ⚡ Fun Fact
-> “I believe in learning something new every day and sharing it with the world. 🌏”
+> I believe in learning something new every day and sharing it with the world. 🌏
