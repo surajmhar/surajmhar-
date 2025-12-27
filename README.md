@@ -29,7 +29,6 @@
 - **111 Days of Learning For Change** – Daily learning documentation  
 - **GMT Creators Hub** – Video ads, creative content  
 
-*(Pin these repos on GitHub for best visibility)*
 
 ---
 
@@ -43,7 +42,6 @@
 - **Email:** surajmahar122@gmail.com  
 - **LinkedIn:** [linkedin.com/in/surajmahar](https://linkedin.com/in/surajmahar)  
 - **Twitter:** [twitter.com/surajmahar](https://twitter.com/surajmahar)  
-- **Portfolio / Website:** [byteify.com](https://byteify.com) *(if available)*
 
 ---
 
