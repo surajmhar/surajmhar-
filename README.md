@@ -27,7 +27,7 @@
 
 - **Byteify Projects** – Educational & marketing videos  
 - **111 Days of Learning For Change** – Daily learning documentation  
-- **Online Shop Pvt. Ltd.** – Video ads, creative content  
+- **GMT Creators Hub** – Video ads, creative content  
 
 *(Pin these repos on GitHub for best visibility)*
 
