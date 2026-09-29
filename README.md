@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LOCATION-NEPAL-161B22?style=for-the-badge&labelColor=0D1117&color=E50914" alt="Location" />
 </p>
 
-# ✦ Suraj Mahar
+#  Suraj Mahar
 
 <p align="center">
   <b>Creative Technologist · Growth Marketer · Product Builder</b><br>
