@@ -54,7 +54,7 @@ I operate at the intersection of **technical development, performance marketing,
 
 ---
 
-### 🚀 Featured Work & Projects
+### 💎 Featured Work & Projects
 
 <table>
 <tr>
